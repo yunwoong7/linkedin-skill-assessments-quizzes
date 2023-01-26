@@ -555,7 +555,7 @@ git checkout -b beta-test
 - [x] by creating a pointer to the most recent snapshot/commit for the branch.
 - [ ] by creating a data array of branches in the same repository.
 - [ ] by creating a data dictionary of code changes.
-- [ ] be creating a debug log that stores repository changes.
+- [ ] by creating a debug log that stores repository changes.
 
 #### Q65. You want to perform a git reset but cannot recall all of the available options. What command would you use to see a description of them?
 
